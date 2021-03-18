@@ -55,7 +55,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color:indianred;
+  background-color:#86cfda;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -10114,6 +10114,7 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
+  opacity: 0.6;
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
