@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "arinolaportfolio",
+			"path": "..\\..\\..\\arinolaportfolio\\arinolaportfolio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "arinolaportfolio",
+		"liveServer.settings.port": 5501
+	}
+}
